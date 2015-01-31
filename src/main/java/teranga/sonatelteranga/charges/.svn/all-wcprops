@@ -1,0 +1,371 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges
+END
+CM_TERANGA_RESILIATION.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_TERANGA_RESILIATION.java
+END
+SVC_M_BDATA.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_BDATA.java
+END
+SVC_M_CHS.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_CHS.java
+END
+CM_TERANGA_VOIX.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_TERANGA_VOIX.java
+END
+CM_TERANGA_ABONNEMENT.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_TERANGA_ABONNEMENT.java
+END
+CM_FAVORIS_ORANGE_ZONE_CHANGEMENT.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_FAVORIS_ORANGE_ZONE_CHANGEMENT.java
+END
+SVC_M_CFNREPLY.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_CFNREPLY.java
+END
+SVC_M_IPHONE.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_IPHONE.java
+END
+SVC_M_MAIL.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_MAIL.java
+END
+CM_ROAMING.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_ROAMING.java
+END
+CM_RECONDUCTION.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_RECONDUCTION.java
+END
+CM_PRODUIT_LIBRE_RECURRENT.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_PRODUIT_LIBRE_RECURRENT.java
+END
+CM_FAVORIS_NAT_ABO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_FAVORIS_NAT_ABO.java
+END
+CM_TERANGA_MMS.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_TERANGA_MMS.java
+END
+CM_FAVORIS_ORANGE_ZONE.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_FAVORIS_ORANGE_ZONE.java
+END
+SVC_M_CTS.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_CTS.java
+END
+CM_GESTE_COMMERCIAL.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_GESTE_COMMERCIAL.java
+END
+SVC_M_CFBUSY.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_CFBUSY.java
+END
+CM_TERANGA_SMS.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_TERANGA_SMS.java
+END
+CM_CESSION.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_CESSION.java
+END
+CM_TERANGA_CAUTION.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_TERANGA_CAUTION.java
+END
+SVC_M_ROAMING.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_ROAMING.java
+END
+SVC_M_CWS.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_CWS.java
+END
+CM_FAVORIS_NAT_CHANGEMENT.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_FAVORIS_NAT_CHANGEMENT.java
+END
+CM_CARTE_SIM.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_CARTE_SIM.java
+END
+CM_SUSPENSION.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_SUSPENSION.java
+END
+CM_CHANGEMENT_SIM_MICRO.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_CHANGEMENT_SIM_MICRO.java
+END
+SVC_M_VPN.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_VPN.java
+END
+SVC_M_OPER_BARROUT.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_OPER_BARROUT.java
+END
+CM_AVOIR.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_AVOIR.java
+END
+CM_CHANGEMENT_SIM.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_CHANGEMENT_SIM.java
+END
+CM_CHANGEMENT_SYMP.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_CHANGEMENT_SYMP.java
+END
+CM_FRAIS_EXCEPTIONNEL.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_FRAIS_EXCEPTIONNEL.java
+END
+SVC_M_3G.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_3G.java
+END
+SVC_M_CFNREACH.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_CFNREACH.java
+END
+CM_FORFAIT_DATA.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_FORFAIT_DATA.java
+END
+SVC_M_AOCI.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_AOCI.java
+END
+SVC_M_GPRS.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_GPRS.java
+END
+SVC_M_BEW.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_BEW.java
+END
+SVC_M_USER_BOICC.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_USER_BOICC.java
+END
+SVC_M_BFAX.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_BFAX.java
+END
+CM_CHANGEMENT_NUMERO.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_CHANGEMENT_NUMERO.java
+END
+SVC_M_BTEL.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_BTEL.java
+END
+CM_SIM_DUO.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_SIM_DUO.java
+END
+SVC_M_CLIP.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_CLIP.java
+END
+CM_TERANGA_MISE_EN_SERVICE.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_TERANGA_MISE_EN_SERVICE.java
+END
+SVC_M_CLIR.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_CLIR.java
+END
+SVC_M_MPTY.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_MPTY.java
+END
+SVC_M_CRBT.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_CRBT.java
+END
+CM_PRODUIT_LIBRE.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_PRODUIT_LIBRE.java
+END
+CM_FAVORIS_INT_ABO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_FAVORIS_INT_ABO.java
+END
+SVC_M_SMS_MOMT.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_SMS_MOMT.java
+END
+CM_NUMERO_TELEPHONE.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_NUMERO_TELEPHONE.java
+END
+CM_TELEPHONE_MOBILE.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_TELEPHONE_MOBILE.java
+END
+SVC_M_OPER_BARRIN.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_OPER_BARRIN.java
+END
+SVC_M_USER_BAOC.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_USER_BAOC.java
+END
+CM_TERANGA_GPRS.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_TERANGA_GPRS.java
+END
+CM_FAVORIS_INT_CHANGEMENT.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_FAVORIS_INT_CHANGEMENT.java
+END
+SVC_M_BLBE.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_BLBE.java
+END
+SVC_M_VMS.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/SVC_M_VMS.java
+END
+CM_IPHONE_REMISE_GEN.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/kaabusonatel/!svn/ver/2/SonatelTeranga/src/main/java/teranga/sonatelteranga/charges/CM_IPHONE_REMISE_GEN.java
+END
